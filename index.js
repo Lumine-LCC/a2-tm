@@ -21,4 +21,3 @@ const morse = (str) => {
   return morse;
 };
 
-console.log(morse('Hey gaby, how are you?'));
